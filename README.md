@@ -7,8 +7,8 @@ Welcome to the course on mobile application development with Flutter! In this co
 - **Course Duration**: 15 Weeks
 - **Instructor**: Assist. Lec. Saad B. Younis
 - **Prerequisites**:
--       No prior programming experience required: I will provide comprehensive instruction from the ground up.
--       No need for paid software: I will guide you through the installation and setup process step by step.
+        No prior programming experience required: I will provide comprehensive instruction from the ground up.
+        No need for paid software: I will guide you through the installation and setup process step by step.
 
 ## Description
 
