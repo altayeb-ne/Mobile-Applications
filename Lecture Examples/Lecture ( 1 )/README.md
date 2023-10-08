@@ -2,7 +2,7 @@
 
 Welcome to first Flutter app! In this project, we explore various Flutter widgets to build a simple mobile application. This README provides an overview of the project and highlights some of the key widgets used.
 
-## Widgets Demonstrated
+## Widgets 
 
 ### 1. `Scaffold`
 
