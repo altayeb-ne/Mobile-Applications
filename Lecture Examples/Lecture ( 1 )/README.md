@@ -28,10 +28,6 @@ The `Center` widget is used to center its child within the parent widget. It's a
 
 The `AppBar` widget is a Material Design widget that provides a top app bar. It typically includes the app's title and navigation icons.
 
-### 7. and More...
-
-Explore the code to discover additional widgets and their functionalities. This app serves as a practical example of how to use these widgets in a Flutter project.
-
 ## Getting Started
 <img width="478" alt="Screenshot 2023-10-08 at 6 48 46 PM" src="https://github.com/nu-coie/Mobile-Applications/assets/107682899/5f20ec13-5de5-4b36-8d27-a18b7b0eab24">
 
