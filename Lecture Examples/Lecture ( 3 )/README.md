@@ -1,16 +1,20 @@
-# fourth
+# Dice Game 🎲
 
-A new Flutter project.
+A simple Flutter-based dice game where players can roll two dice and see the outcome.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+# Features
 
-A few resources to get you started if this is your first Flutter project:
+    Roll two dice by pressing a button.
+    Random outcomes for each roll.
+    Intuitive UI for an engaging gaming experience.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+# Widgets Used
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+The app was developed using a variety of Flutter's foundational widgets:
+
+    TextButton: To create an interactive button that users can press to roll the dice.
+    Expanded: Ensures that the dice images occupy the maximum available space while maintaining proportions.
+    Row: Aligns the two dice horizontally.
+    setState: Dynamically changes the state of our app (i.e., the dice faces) when the button is pressed.
+    Random function (from dart:math): Generates random numbers for the dice outcomes.
