@@ -3,18 +3,23 @@
 A simple Flutter-based dice game where players can roll two dice and see the outcome.
 
 
-# Features
+## Features
 
     Roll two dice by pressing a button.
     Random outcomes for each roll.
     Intuitive UI for an engaging gaming experience.
 
-# Widgets Used
+## Widgets Used
 
 The app was developed using a variety of Flutter's foundational widgets:
 
-    TextButton: To create an interactive button that users can press to roll the dice.
-    Expanded: Ensures that the dice images occupy the maximum available space while maintaining proportions.
-    Row: Aligns the two dice horizontally.
-    setState: Dynamically changes the state of our app (i.e., the dice faces) when the button is pressed.
-    Random function (from dart:math): Generates random numbers for the dice outcomes.
+### 1. 'TextButton:'
+To create an interactive button that users can press to roll the dice.
+### 2. `Expanded:` 
+Ensures that the dice images occupy the maximum available space while maintaining proportions.
+### 3. `Row: `
+Aligns the two dice horizontally.
+### 4. `setState:`
+Dynamically changes the state of our app (i.e., the dice faces) when the button is pressed.
+### 5. `Random function (from dart:math):`
+Generates random numbers for the dice outcomes.
