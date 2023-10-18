@@ -23,3 +23,8 @@ Aligns the two dice horizontally.
 Dynamically changes the state of our app (i.e., the dice faces) when the button is pressed.
 ### 5. `Random function (from dart:math):`
 Generates random numbers for the dice outcomes.
+
+
+
+https://github.com/nu-coie/Mobile-Applications/assets/107682899/6fd5ebde-5a6d-4045-80a2-32cbc42fb74e
+
