@@ -16,7 +16,8 @@ To achieve this enhancement, we have integrated the Geonames API for AutoComplet
 
 ### Weather App. Structure
 
-![4](https://github.com/nu-coie/Mobile-Applications/assets/107682899/b5e008bd-ab9a-4c57-b851-fc7687a03c8a)
+![AliS](https://github.com/nu-coie/Mobile-Applications/assets/107682899/fa704d82-30f8-48cb-bb19-db8013f11f05)
+
 
 
 ### How it Works
