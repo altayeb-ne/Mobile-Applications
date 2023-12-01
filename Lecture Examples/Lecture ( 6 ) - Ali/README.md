@@ -1,16 +1,39 @@
-# weather
+# Weather App - AutoComplete Feature ⛅️ 🌞
 
-A new Flutter project.
+## Introduction
 
-## Getting Started
+This README file provides information about the latest update, incorporating an AutoComplete feature for the City Page, thanks to the valuable suggestion from Ali Shaker.
 
-This project is a starting point for a Flutter application.
+## AutoComplete Feature
 
-A few resources to get you started if this is your first Flutter project:
+### Overview
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+In the basic version of the app, users were required to manually input the city name on the City Page. Ali Shaker suggested an improvement by enabling the AutoComplete feature, making it more user-friendly and efficient.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Implementation
+
+To achieve this enhancement, we have integrated the Geonames API for AutoComplete functionality. The Geonames API provides a reliable source for location data, making it easier for users to find and select their desired city.
+
+### How it Works
+
+1. **City Page Interaction**: Users can start typing the city name in the input field on the City Page.
+
+2. **AutoComplete Suggestions**: As the user types, the app communicates with the Geonames API to retrieve matching city suggestions.
+
+3. **User Selection**: Users can select their desired city from the AutoComplete suggestions, streamlining the process of entering location information.
+
+## Feedback and Contributions
+
+We appreciate Ali Shaker's valuable suggestion and welcome feedback from all Students. If you encounter any issues, have ideas for improvement, or want to contribute, please open an issue or submit a pull request.
+
+Happy exploring the enhanced Weather app with the AutoComplete feature!
+
+### Weather App. Output
+
+https://github.com/nu-coie/Mobile-Applications/assets/107682899/628e5d7b-980f-49d6-8b48-4fe2b114caee
+
+### Weather App. Structure
+
+![4](https://github.com/nu-coie/Mobile-Applications/assets/107682899/b5e008bd-ab9a-4c57-b851-fc7687a03c8a)
+
+
