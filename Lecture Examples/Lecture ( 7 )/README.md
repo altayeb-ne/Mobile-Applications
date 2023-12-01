@@ -39,7 +39,7 @@ The design of this app is crafted to provide a seamless user experience. There a
 - **Ali Version**: Incorporates AutoComplete for city search using the Geonames API. [Ali's Repository](https://github.com/nu-coie/Mobile-Applications/tree/main/Lecture%20Examples/Lecture%20(%206%20)%20-%20Ali)
 - **Altayeb Version**: Streamlines city search by removing the City Page and allowing users to input the city name directly on the Home Page. [Altayeb's Repository](https://github.com/nu-coie/Mobile-Applications/tree/main/Lecture%20Examples/Lecture%20(%206%20)%20-%20AlTayeb)
 
-Feel free to contribute, report issues, or suggest improvements! Your feedback is crucial to enhancing the Weather App.
+Feel free to contribute, report issues, or suggest improvements! Your feedback is crucial to enhancing Course.
 
 Explore the Weather App and let us know your thoughts!
 
