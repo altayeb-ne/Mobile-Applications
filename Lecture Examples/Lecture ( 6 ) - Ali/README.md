@@ -14,6 +14,11 @@ In the basic version of the app, users were required to manually input the city 
 
 To achieve this enhancement, we have integrated the Geonames API for AutoComplete functionality. The Geonames API provides a reliable source for location data, making it easier for users to find and select their desired city.
 
+### Weather App. Structure
+
+![4](https://github.com/nu-coie/Mobile-Applications/assets/107682899/b5e008bd-ab9a-4c57-b851-fc7687a03c8a)
+
+
 ### How it Works
 
 1. **City Page Interaction**: Users can start typing the city name in the input field on the City Page.
@@ -30,10 +35,8 @@ Happy exploring the enhanced Weather app with the AutoComplete feature!
 
 ### Weather App. Output
 
-https://github.com/nu-coie/Mobile-Applications/assets/107682899/628e5d7b-980f-49d6-8b48-4fe2b114caee
+https://github.com/nu-coie/Mobile-Applications/assets/107682899/73ab3057-e2f4-41bf-a335-3e049ba291ff
 
-### Weather App. Structure
 
-![4](https://github.com/nu-coie/Mobile-Applications/assets/107682899/b5e008bd-ab9a-4c57-b851-fc7687a03c8a)
 
 
