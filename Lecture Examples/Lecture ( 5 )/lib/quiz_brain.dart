@@ -19,14 +19,10 @@ class QuizBrain {
 
 
 
-  void nextQuestion()
+  void shuffleQuestion()
   {
 
-    if (_questionumber < _questionbank.length)
-
-    {
-      _questionumber++;
-    }
+    _questionbank.shuffle();
 
   }
 
